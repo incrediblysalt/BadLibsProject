@@ -1,0 +1,123 @@
+/* CSS Formating for Ad Libs Site: Berkeley Savage */
+
+body {
+	background-image: url("../video/space.jpg");
+}
+
+.titleTxt {
+	margin-top: -5px;
+}
+
+.badForm {
+	z-index: 5;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
+	justify-items: start;
+}
+
+.col1 {
+	grid-column-start: 1;
+	grid-column-end: 1;
+	margin-bottom: -5px;
+	margin-right: -5px;
+}
+
+.col2 {
+	grid-column-start: 2;
+	grid-column-end: 2;
+	margin-bottom: -5px;
+	margin-left: -5px;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container {
+	background-color: #f5f2fa;
+	margin: auto;
+	margin-top: 20px;
+	max-width: 900px;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-radius: 10px;
+}
+
+hr {
+	border: 0;
+	clear: both;
+	display: block;
+	width: 80%;
+	background-color: #352e40;
+	height: 2px;
+}
+
+.formBtns {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.formBtns > .btn {
+	margin: 2px;
+}
+
+.variable {
+	text-decoration: underline;
+	text-decoration-color: #eb4026;
+	color: #eb4026;
+}
+
+.gen {
+	margin: -10px 10px 10px 10px;
+	font-size: 16px;
+	padding: 10px 20px 10px 20px;
+	background-color: #f2ddda;
+	border-radius: 10px;
+	font-family: Arial;
+}
+
+.index {
+	text-align: center;
+	z-index: 5;
+}
+
+.btn {
+	background-color: #22147d;
+	color: white;
+	font-size: 16px; 
+	line-height: 16px;
+	padding: 10px;
+	border: none;
+	border-radius: 5px; 
+}
+
+.btn:hover {
+	background-color: #40338f;
+}
+
+.tab {
+	position: relative;
+	top: -295px;
+	left: -291px;
+	margin-bottom: -550px;
+}
+
+.para {
+	padding: 0px 80px 0px 80px;
+	width: 70%;
+}
+
+.homeList {
+	list-style: none;
+}
+
+.homeList > li {
+	margin-bottom: 7px;
+}

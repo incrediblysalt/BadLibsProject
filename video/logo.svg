@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="115.981 161.041 237.851 135.022" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="230.309" y1="161.041" x2="230.309" y2="296.063" id="gradient-0" gradientTransform="matrix(0.999986, 0.005263, -0.005208, 0.989583, 1.545174, 1.871841)">
+      <stop offset="0" style="stop-color: rgb(20, 5, 117);"/>
+      <stop offset="1" style="stop-color: rgb(245, 242, 250);"/>
+    </linearGradient>
+    <path id="path-1" d="M 168.073 227.926 C 182.372 227.926 192.452 227.926 202.532 227.926 L 203.235 227.926" style="fill: none;"/>
+  </defs>
+  <ellipse style="fill-rule: nonzero; paint-order: fill; fill: url(#gradient-0);" cx="230.309" cy="228.552" rx="105.837" ry="67.511"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;"><textPath xlink:href="#path-1"> </textPath></text>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 51.3px; white-space: pre;" transform="matrix(1, 0, -0.616692, 1, 22.010895, -368.783844)" x="478.393" y="612.399">Bad-Libs</text>
+</svg>
